@@ -4,5 +4,6 @@
     <string name="app_name">Android Performance</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="main_ui_optimizations">UI Optimizations</string>
 
 </resources>
